@@ -1,0 +1,6 @@
+practical -01
+task-01:Run a helloworld.java program in eclipse[post eclipse setup]
+task-02:run a helloworld.java program in terminal of your system[post jdk setup]
+task-03:push this basic java project into onine github[posthaving online and offline(local)repositories]
+P1_Task01_HelloWorldprogram.java
+P1_Task01_Helloworldprogram.png
